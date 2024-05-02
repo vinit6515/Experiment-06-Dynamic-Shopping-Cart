@@ -1,6 +1,6 @@
 # FirstApp
 
-This project was made following the Udemy Course [Angular - The Complete Guide (2023 Edition)](https://deloittedevelopment.udemy.com/course/the-complete-guide-to-angular-2/)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
